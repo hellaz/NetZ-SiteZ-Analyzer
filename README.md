@@ -1,4 +1,4 @@
-# HellaZ SiteZ Analyzer
+# NetZ.gr SiteZ Analyzer
 
 A comprehensive WordPress website analysis & metadata plugin that uncovers SEO quality, security, performance, technology stack, social, and contact information from any public URL. Features a multi-section, template-driven UI, advanced caching, bulk analysis, and deep admin controls.
 
